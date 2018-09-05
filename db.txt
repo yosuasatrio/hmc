@@ -1,0 +1,23 @@
+List database
+- Mobil
+  ID Mobil
+  Nama Mobil
+  Tahun Mobil
+  Harga Mobil
+  Gambar Mobil
+
+- Spesifikasi Mobil
+
+- Blog
+  id_post
+  title_post
+  thumbnail_post
+  detail_post
+  category_post
+  date_post
+
+TO DO LIST :
+1. membuat detail car
+2. membuat detail post
+3. membuat CRUD CAR & CRUD SPESIFIKASI CAR
+4. membuat CRUD post
